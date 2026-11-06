@@ -1,0 +1,8 @@
+src/*.o
+/build/
+/urgencetriage
+/urgencetriage.exe
+/data/file_attente.dat
+/data/file_attente.dat.tmp
+/data/historique.csv
+/data/rapport_jour.txt
